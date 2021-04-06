@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "269942325800",
+    "project_id": "file-share-fa430",
+    "storage_bucket": "file-share-fa430.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269942325800:android:49d3103f14faad78f6ab1d",
+        "android_client_info": {
+          "package_name": "com.fresh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269942325800-f0mbaukan6ja99cp70a0ndgslf5hhf0d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBicW488Cu9tL7Vbpb20Jo3P2xvQf9ULIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269942325800-f0mbaukan6ja99cp70a0ndgslf5hhf0d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
